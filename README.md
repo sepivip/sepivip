@@ -15,7 +15,7 @@
 
 ### About
 
-Not a developer — an entrepreneur who uses AI to build and ship products.
+Not a developer - an entrepreneur who uses AI to build and ship products.
 Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot of conviction.
 
 ---
