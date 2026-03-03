@@ -38,22 +38,6 @@ Claude skill for BOG payment integration.
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-**[Alpha Arena Trading](https://github.com/sepivip/alpha-arena-trading)** ⭐ 2
-AI-powered cryptocurrency trading simulator.
-`TypeScript`
-
-</td>
-<td width="50%">
-
-**[AgentVault](https://github.com/sepivip/agentvault)**
-Agent infrastructure toolkit.
-`TypeScript`
-
-</td>
-</tr>
 </table>
 
 ---
