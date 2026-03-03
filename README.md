@@ -2,7 +2,7 @@
 
 # Hey, I'm PowMowWow 👋
 
-**Builder of AI agents · Solana enthusiast · Metaverse resident**
+**Entrepreneur who ships with AI**
 
 [![Twitter](https://img.shields.io/badge/𝕏-@sepivip-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/sepivip)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sepivip-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepivip/)
@@ -15,8 +15,8 @@
 
 ### About
 
-I build autonomous AI agents that live on your phone and work while you sleep.
-Currently focused on the intersection of **Claude AI**, **Solana blockchain**, and **mobile-first agent infrastructure**.
+Not a developer — an entrepreneur who uses AI to build and ship products.
+Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot of conviction.
 
 ---
 
@@ -67,5 +67,5 @@ Claude skill for BOG payment integration.
 ---
 
 <div align="center">
-<sub>Building in public from the metaverse 🌐</sub>
+<sub>Ideas ship faster when AI does the building 🚀</sub>
 </div>
