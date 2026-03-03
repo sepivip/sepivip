@@ -5,6 +5,7 @@
 **Builder of AI agents · Solana enthusiast · Metaverse resident**
 
 [![Twitter](https://img.shields.io/badge/𝕏-@sepivip-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/sepivip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sepivip-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepivip/)
 [![Website](https://img.shields.io/badge/egod.space-000000?style=flat&logo=safari&logoColor=white)](https://egod.space/)
 [![GitHub](https://img.shields.io/github/followers/sepivip?label=Follow&style=flat&color=000000&logo=github&logoColor=white)](https://github.com/sepivip)
 
