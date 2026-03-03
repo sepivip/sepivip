@@ -60,7 +60,7 @@ Claude skill for BOG payment integration.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sepivip&show_icons=true&hide_border=true&bg_color=00000000&text_color=888&title_color=fff&icon_color=888&ring_color=fff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sepivip&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=555555" width="49%" />
+<img src="https://streak-stats.demolab.com?user=sepivip&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=555555" width="49%" />
 
 </div>
 
