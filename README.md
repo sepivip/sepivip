@@ -15,7 +15,7 @@
 
 ### About
 
-Not a developer - an entrepreneur who uses AI to build and ship products.
+Not a developer — an entrepreneur who uses AI to build and ship products.
 Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot of conviction.
 
 ---
@@ -26,16 +26,32 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 <tr>
 <td width="50%">
 
-**[SeekerClaw](https://github.com/sepivip/SeekerClaw)** ⭐ 20
+**[SeekerClaw](https://github.com/sepivip/SeekerClaw)** ![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat&color=yellow&label=⭐)
 Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent.
-`Kotlin` `JavaScript` `Claude` `Solana`
+`Kotlin` `JavaScript` `Claude` `OpenAI` `OpenRouter` `Solana`
 
 </td>
 <td width="50%">
 
-**[BOG Payment Gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** ⭐ 14
+**[BOG Payment Gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat&color=yellow&label=⭐)
 Claude skill for BOG payment integration.
 `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[BOG B-Online Skill](https://github.com/sepivip/claude-skill-bog-bonline)** ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-bonline?style=flat&color=yellow&label=⭐)
+Claude skill for BOG online banking.
+`Markdown`
+
+</td>
+<td width="50%">
+
+**[RS/GE Waybill Skill](https://github.com/sepivip/claude-rs-ge-waybill-skill)** ![Stars](https://img.shields.io/github/stars/sepivip/claude-rs-ge-waybill-skill?style=flat&color=yellow&label=⭐)
+Claude skill for RS.GE waybill management.
+`Markdown`
 
 </td>
 </tr>
