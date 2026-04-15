@@ -24,6 +24,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 - 🦞 [SeekerClaw](https://seekerclaw.xyz/) — A 24/7 native AI agent that lives on your Android phone.
 - 🔍 [Revelo](https://revelo.me/) — AI research platform that surfaces qualitative customer insights from interviews, at scale.
 - 💸 [Toppio](https://toppio.xyz/) — Top up your mobile, energy, and gas bills with crypto.
+- 📊 [Jobs.egod.space](https://jobs.egod.space/) — Dashboards of Georgian economic metrics (CPI, inflation, and more).
 
 ---
 
