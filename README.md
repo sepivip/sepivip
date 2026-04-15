@@ -21,6 +21,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 **Current Projects**
 
 - 🏍️ [DIRTTIME](https://dirttime.xyz/) — Track motorcycle maintenance, log rides, and never miss service on your dirt bike.
+- 🦞 [SeekerClaw](https://seekerclaw.xyz/) — A 24/7 native AI agent that lives on your Android phone.
 
 ---
 
