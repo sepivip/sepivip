@@ -18,6 +18,10 @@
 Not a developer — an entrepreneur who uses AI to build and ship products.
 Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot of conviction.
 
+**Current Projects**
+
+- 🏍️ [DIRTTIME](https://dirttime.xyz/) — Track motorcycle maintenance, log rides, and never miss service on your dirt bike.
+
 ---
 
 ### Featured
