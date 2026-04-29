@@ -22,8 +22,10 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 
 - 🏍️ [DIRTTIME](https://dirttime.xyz/) — Track motorcycle maintenance, log rides, and never miss service on your dirt bike.
 - 🦞 [SeekerClaw](https://seekerclaw.xyz/) — A 24/7 native AI agent that lives on your Android phone.
+- 🤖 [LobsterPay](https://lobsterpay.xyz/) — Permissioned Solana payments for AI agents: scoped API keys with spend limits instead of private keys.
 - 🔍 [Revelo](https://revelo.me/) — AI research platform that surfaces qualitative customer insights from interviews, at scale.
 - 💸 [Toppio](https://toppio.xyz/) — Top up your mobile, energy, and gas bills with crypto.
+- 🍽️ [OnlyFoods](https://onlyfoods.ge/) — Discover the best places in Georgia for the dish you're craving.
 - 📊 [Jobs.egod.space](https://jobs.egod.space/) — Dashboards of Georgian economic metrics (CPI, inflation, and more).
 
 ---
