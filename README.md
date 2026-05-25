@@ -27,6 +27,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 - 💸 [Toppio](https://toppio.xyz/) — Top up your mobile, energy, and gas bills with crypto.
 - 🍽️ [OnlyFoods](https://onlyfoods.ge/) — Discover the best places in Georgia for the dish you're craving.
 - 📊 [Jobs.egod.space](https://jobs.egod.space/) — Dashboards of Georgian economic metrics (CPI, inflation, and more).
+- 🧾 [waybill.ge](https://waybill.ge/) — RS.GE connector for Claude, Codex, and any AI agent.
 
 ---
 
