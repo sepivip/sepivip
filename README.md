@@ -29,6 +29,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 - 📊 [Jobs.egod.space](https://jobs.egod.space/) — Dashboards of Georgian economic metrics (CPI, inflation, and more).
 - 🧾 [waybill.ge](https://waybill.ge/) — RS.GE connector for Claude, Codex, and any AI agent.
 - ⌨️ [cckeys](https://cckeys.work/) — Interactive, terminal-styled trainer to master the Claude Code CLI: shortcuts, commands, and a live keyboard map.
+- 🎛️ [codexdeck](https://github.com/sepivip/codexdeck) — Turn an Ajazz stream deck into a live OpenAI Codex controller — task-lit keys, knobs, and buttons on Windows.
 
 ---
 
