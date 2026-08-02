@@ -32,6 +32,34 @@ jobs:
               .sort((a, b) => b.stargazers_count - a.stargazers_count || new Date(b.updated_at) - new Date(a.updated_at))
               .slice(0, 4);
 
+            const activeRepositories = data
+              .filter(repo => !repo.fork && repo.name !== context.repo.repo)
+              .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
+              .slice(0, 20);
+            const languageResponses = await Promise.all(
+              activeRepositories.map(repo => github.rest.repos.listLanguages({
+                owner: context.repo.owner,
+                repo: repo.name,
+              }))
+            );
+            const languageBytes = {};
+            for (const response of languageResponses) {
+              for (const [language, bytes] of Object.entries(response.data)) {
+                languageBytes[language] = (languageBytes[language] || 0) + bytes;
+              }
+            }
+            const colors = {
+              Python: "3776AB", JavaScript: "F7DF1E", TypeScript: "3178C6",
+              Kotlin: "7F52FF", Java: "B07219", Go: "00ADD8", Rust: "DEA584",
+              Shell: "89E051", HTML: "E34F26", CSS: "663399", Swift: "F05138",
+            };
+            const logos = { Python: "python", JavaScript: "javascript", TypeScript: "typescript", Kotlin: "kotlin", Java: "openjdk", Go: "go", Rust: "rust", Shell: "gnu-bash", HTML: "html5", CSS: "css", Swift: "swift" };
+            const stack = Object.entries(languageBytes)
+              .sort((a, b) => b[1] - a[1])
+              .slice(0, 10)
+              .map(([language]) => `![${language}](https://img.shields.io/badge/${encodeURIComponent(language)}-${colors[language] || "64748B"}?style=flat&logo=${logos[language] || "github"}&logoColor=white)`)
+              .join("\n");
+
             const safe = value => (value || "A project by sepivip").replace(/[|\r\n]/g, " ").trim();
             const rows = repositories.map(repo =>
               `| ![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&label=⭐) | **[${repo.name}](${repo.html_url})** | ${safe(repo.description)} |`
@@ -46,8 +74,9 @@ jobs:
 
             const path = "README.md";
             const readme = fs.readFileSync(path, "utf8");
-            const updated = readme.replace(/<!-- featured:start -->[\s\S]*?<!-- featured:end -->/, table);
-            if (updated === readme) core.setFailed("Featured markers were not found in README.md.");
+            const withFeatured = readme.replace(/<!-- featured:start -->[\s\S]*?<!-- featured:end -->/, table);
+            const updated = withFeatured.replace(/<!-- stack:start -->[\s\S]*?<!-- stack:end -->/, `<!-- stack:start -->\n${stack}\n<!-- stack:end -->`);
+            if (updated === readme) core.setFailed("Profile README markers were not found or there was no profile change.");
             else fs.writeFileSync(path, updated);
       - name: Commit refreshed featured projects
         run: |

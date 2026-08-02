@@ -48,6 +48,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 
 ### Stack
 
+<!-- stack:start -->
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -58,6 +59,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
+<!-- stack:end -->
 
 ---
 
