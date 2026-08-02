@@ -38,10 +38,10 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 <!-- featured:start -->
 | | Repo | Description |
 |---|---|---|
-| ![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&label=⭐) | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | 24/7 AI agent on your Android phone — Claude, OpenAI, OpenRouter, Solana |
-| ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&label=⭐) | **[BOG Payment Gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | Claude skill for BOG payment integration |
-| ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-bonline?style=flat-square&label=⭐) | **[BOG B-Online Skill](https://github.com/sepivip/claude-skill-bog-bonline)** | Claude skill for BOG online banking |
-| ![Stars](https://img.shields.io/github/stars/sepivip/claude-rs-ge-waybill-skill?style=flat-square&label=⭐) | **[RS/GE Waybill Skill](https://github.com/sepivip/claude-rs-ge-waybill-skill)** | Claude skill for RS.GE waybill management |
+| ![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&label=⭐) | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent |
+| ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&label=⭐) | **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | A project by sepivip |
+| ![Stars](https://img.shields.io/github/stars/sepivip/meta-ads-skill?style=flat-square&label=⭐) | **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
+| ![Stars](https://img.shields.io/github/stars/sepivip/codexdeck?style=flat-square&label=⭐) | **[codexdeck](https://github.com/sepivip/codexdeck)** | A project by sepivip |
 <!-- featured:end -->
 
 ---
