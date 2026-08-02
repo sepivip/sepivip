@@ -36,10 +36,12 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 ### Featured
 
 <!-- featured:start -->
-- [![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&label=⭐)](https://github.com/sepivip/SeekerClaw) **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** — Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent
-- [![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&label=⭐)](https://github.com/sepivip/claude-skill-bog-payment-gateway) **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** — A project by sepivip
-- [![Stars](https://img.shields.io/github/stars/sepivip/meta-ads-skill?style=flat-square&label=⭐)](https://github.com/sepivip/meta-ads-skill) **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** — Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes
-- [![Stars](https://img.shields.io/github/stars/sepivip/codexdeck?style=flat-square&label=⭐)](https://github.com/sepivip/codexdeck) **[codexdeck](https://github.com/sepivip/codexdeck)** — A project by sepivip
+<table>
+  <tr><td><a href="https://github.com/sepivip/SeekerClaw"><img src="https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&amp;label=⭐" alt="SeekerClaw stars" /></a></td><td><b><a href="https://github.com/sepivip/SeekerClaw">SeekerClaw</a></b></td><td>Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent</td></tr>
+  <tr><td><a href="https://github.com/sepivip/claude-skill-bog-payment-gateway"><img src="https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&amp;label=⭐" alt="BOG Payment Gateway stars" /></a></td><td><b><a href="https://github.com/sepivip/claude-skill-bog-payment-gateway">claude-skill-bog-payment-gateway</a></b></td><td>A project by sepivip</td></tr>
+  <tr><td><a href="https://github.com/sepivip/meta-ads-skill"><img src="https://img.shields.io/github/stars/sepivip/meta-ads-skill?style=flat-square&amp;label=⭐" alt="Meta Ads Skill stars" /></a></td><td><b><a href="https://github.com/sepivip/meta-ads-skill">meta-ads-skill</a></b></td><td>Claude skill for running Meta ads through the official Ads MCP</td></tr>
+  <tr><td><a href="https://github.com/sepivip/codexdeck"><img src="https://img.shields.io/github/stars/sepivip/codexdeck?style=flat-square&amp;label=⭐" alt="codexdeck stars" /></a></td><td><b><a href="https://github.com/sepivip/codexdeck">codexdeck</a></b></td><td>A project by sepivip</td></tr>
+</table>
 <!-- featured:end -->
 
 ---
