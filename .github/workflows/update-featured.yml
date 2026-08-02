@@ -62,13 +62,13 @@ jobs:
 
             const safe = value => (value || "A project by sepivip").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[char])).replace(/[\r\n]/g, " ").trim();
             const rows = repositories.map(repo =>
-              `  <tr><td><a href="${repo.html_url}"><img src="https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&amp;label=⭐" alt="${safe(repo.name)} stars" /></a></td><td><b><a href="${repo.html_url}">${safe(repo.name)}</a></b></td><td>${safe(repo.description)}</td></tr>`
+              `| [![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&label=⭐)](${repo.html_url}) | **[${safe(repo.name)}](${repo.html_url})** | ${safe(repo.description)} |`
             );
             const table = [
               "<!-- featured:start -->",
-              "<table>",
+              "| | Repo | Description |",
+              "|---|---|---|",
               ...rows,
-              "</table>",
               "<!-- featured:end -->",
             ].join("\n");
 
