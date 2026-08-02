@@ -36,12 +36,12 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 ### Featured
 
 <!-- featured:start -->
-| | Repo | Description |
-|---|---|---|
-| ![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&label=⭐) | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent |
-| ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&label=⭐) | **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | A project by sepivip |
-| ![Stars](https://img.shields.io/github/stars/sepivip/meta-ads-skill?style=flat-square&label=⭐) | **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
-| ![Stars](https://img.shields.io/github/stars/sepivip/codexdeck?style=flat-square&label=⭐) | **[codexdeck](https://github.com/sepivip/codexdeck)** | A project by sepivip |
+| Repo | Stars | Description |
+|---|---:|---|
+| **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | ★ 270 | Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent |
+| **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | ★ 18 | A project by sepivip |
+| **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | ★ 2 | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
+| **[codexdeck](https://github.com/sepivip/codexdeck)** | ★ 2 | A project by sepivip |
 <!-- featured:end -->
 
 ---

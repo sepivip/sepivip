@@ -62,12 +62,12 @@ jobs:
 
             const safe = value => (value || "A project by sepivip").replace(/[|\r\n]/g, " ").trim();
             const rows = repositories.map(repo =>
-              `| ![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&label=⭐) | **[${repo.name}](${repo.html_url})** | ${safe(repo.description)} |`
+              `| **[${repo.name}](${repo.html_url})** | ★ ${repo.stargazers_count} | ${safe(repo.description)} |`
             );
             const table = [
               "<!-- featured:start -->",
-              "| | Repo | Description |",
-              "|---|---|---|",
+              "| Repo | Stars | Description |",
+              "|---|---:|---|",
               ...rows,
               "<!-- featured:end -->",
             ].join("\n");
