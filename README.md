@@ -35,12 +35,14 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 
 ### Featured
 
+<!-- featured:start -->
 | | Repo | Description |
 |---|---|---|
 | ![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&label=⭐) | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | 24/7 AI agent on your Android phone — Claude, OpenAI, OpenRouter, Solana |
 | ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&label=⭐) | **[BOG Payment Gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | Claude skill for BOG payment integration |
 | ![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-bonline?style=flat-square&label=⭐) | **[BOG B-Online Skill](https://github.com/sepivip/claude-skill-bog-bonline)** | Claude skill for BOG online banking |
 | ![Stars](https://img.shields.io/github/stars/sepivip/claude-rs-ge-waybill-skill?style=flat-square&label=⭐) | **[RS/GE Waybill Skill](https://github.com/sepivip/claude-rs-ge-waybill-skill)** | Claude skill for RS.GE waybill management |
+<!-- featured:end -->
 
 ---
 
@@ -61,7 +63,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sepivip&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=555555" width="60%" />
+<img src="./assets/build-ship.svg" alt="Build, ship, repeat" width="720" />
 
 </div>
 
