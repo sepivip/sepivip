@@ -65,7 +65,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 
 <div align="center">
 
-<img src="./assets/build-ship.svg" alt="Build, ship, repeat" width="720" />
+<img src="https://streak-stats.demolab.com?user=sepivip&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=555555" width="60%" />
 
 </div>
 
