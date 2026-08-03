@@ -62,7 +62,7 @@ jobs:
 
             const safe = value => (value || "A project by sepivip").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[char])).replace(/[\r\n]/g, " ").trim();
             const rows = repositories.map(repo =>
-              `| ⭐ ${repo.stargazers_count.toLocaleString("en-US")} | **[${safe(repo.name)}](${repo.html_url})** | ${safe(repo.description)} |`
+              `| ⭐&nbsp;${repo.stargazers_count.toLocaleString("en-US")} | **[${safe(repo.name)}](${repo.html_url})** | ${safe(repo.description)} |`
             );
             const table = [
               "<!-- featured:start -->",
