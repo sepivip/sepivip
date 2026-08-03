@@ -38,10 +38,10 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 <!-- featured:start -->
 | | Repo | Description |
 |---|---|---|
-| [![Stars](https://img.shields.io/github/stars/sepivip/SeekerClaw?style=flat-square&label=⭐)](https://github.com/sepivip/SeekerClaw) | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent |
-| [![Stars](https://img.shields.io/github/stars/sepivip/claude-skill-bog-payment-gateway?style=flat-square&label=⭐)](https://github.com/sepivip/claude-skill-bog-payment-gateway) | **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | A project by sepivip |
-| [![Stars](https://img.shields.io/github/stars/sepivip/meta-ads-skill?style=flat-square&label=⭐)](https://github.com/sepivip/meta-ads-skill) | **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
-| [![Stars](https://img.shields.io/github/stars/sepivip/codexdeck?style=flat-square&label=⭐)](https://github.com/sepivip/codexdeck) | **[codexdeck](https://github.com/sepivip/codexdeck)** | A project by sepivip |
+| ⭐ 270 | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent |
+| ⭐ 18 | **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | Claude skill for the Bank of Georgia (BOG) Payment Gateway API - OAuth 2.0, payment orders, status verification, refunds, and callback handling |
+| ⭐ 11 | **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
+| ⭐ 4 | **[codexdeck](https://github.com/sepivip/codexdeck)** | Turn an Ajazz AKP03E macro pad into an OpenAI Codex controller - task-lit LCD keys, knobs, and buttons on Windows |
 <!-- featured:end -->
 
 ---
