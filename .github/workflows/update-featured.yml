@@ -62,7 +62,7 @@ jobs:
 
             const safe = value => (value || "A project by sepivip").replace(/[&<>"']/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[char])).replace(/[\r\n]/g, " ").trim();
             const rows = repositories.map(repo =>
-              `| [![Stars](https://img.shields.io/github/stars/${repo.full_name}?style=flat-square&label=⭐)](${repo.html_url}) | **[${safe(repo.name)}](${repo.html_url})** | ${safe(repo.description)} |`
+              `| ⭐ ${repo.stargazers_count.toLocaleString("en-US")} | **[${safe(repo.name)}](${repo.html_url})** | ${safe(repo.description)} |`
             );
             const table = [
               "<!-- featured:start -->",
@@ -76,7 +76,11 @@ jobs:
             const readme = fs.readFileSync(path, "utf8");
             const withFeatured = readme.replace(/<!-- featured:start -->[\s\S]*?<!-- featured:end -->/, table);
             const updated = withFeatured.replace(/<!-- stack:start -->[\s\S]*?<!-- stack:end -->/, `<!-- stack:start -->\n${stack}\n<!-- stack:end -->`);
-            if (updated === readme) core.setFailed("Profile README markers were not found or there was no profile change.");
+            const markersPresent =
+              /<!-- featured:start -->[\s\S]*?<!-- featured:end -->/.test(readme) &&
+              /<!-- stack:start -->[\s\S]*?<!-- stack:end -->/.test(readme);
+            if (!markersPresent) core.setFailed("Profile README markers were not found.");
+            else if (updated === readme) core.info("Profile README already up to date; nothing to commit.");
             else fs.writeFileSync(path, updated);
       - name: Commit refreshed featured projects
         run: |
