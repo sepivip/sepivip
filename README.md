@@ -54,11 +54,11 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-64748B?style=flat&logo=github&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-64748B?style=flat&logo=github&logoColor=white)
-![PLpgSQL](https://img.shields.io/badge/PLpgSQL-64748B?style=flat&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-64748B?style=flat&logo=github&logoColor=white)
 <!-- stack:end -->
 
 ---
