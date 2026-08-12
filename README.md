@@ -31,6 +31,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 - ⌨️ [cckeys](https://cckeys.work/) — Interactive, terminal-styled trainer to master the Claude Code CLI: shortcuts, commands, and a live keyboard map.
 - 🎛️ [codexdeck](https://github.com/sepivip/codexdeck) — Turn an Ajazz stream deck into a live OpenAI Codex controller — task-lit keys, knobs, and buttons on Windows.
 - 🪽 [hermes-ambient-watch](https://github.com/sepivip/hermes-ambient-watch) — Ambient mode for Hermes Agent: watches a Slack channel and answers in-thread untagged, a self-hosted Claude Tag alternative.
+- 📱 [android-harness](https://github.com/sepivip/android-harness) — Let your agent drive your Android phone from Windows over ADB, with nothing installed on the phone — works with Claude Code, Codex and Hermes.
 
 ---
 
