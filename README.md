@@ -42,7 +42,7 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 |---|---|---|
 | ⭐&nbsp;322 | **[SeekerClaw](https://github.com/sepivip/SeekerClaw)** | Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent |
 | ⭐&nbsp;19 | **[claude-skill-bog-payment-gateway](https://github.com/sepivip/claude-skill-bog-payment-gateway)** | Claude skill for the Bank of Georgia (BOG) Payment Gateway API - OAuth 2.0, payment orders, status verification, refunds, and callback handling |
-| ⭐&nbsp;14 | **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
+| ⭐&nbsp;15 | **[meta-ads-skill](https://github.com/sepivip/meta-ads-skill)** | Claude skill for running Meta (Facebook/Instagram) ads via the official Ads MCP - launch playbook, verified tool contracts, Georgia/Tbilisi recipes |
 | ⭐&nbsp;6 | **[codexdeck](https://github.com/sepivip/codexdeck)** | Turn an Ajazz AKP03E macro pad into an OpenAI Codex controller - task-lit LCD keys, knobs, and buttons on Windows |
 <!-- featured:end -->
 
@@ -57,10 +57,10 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-64748B?style=flat&logo=github&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-64748B?style=flat&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-64748B?style=flat&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-64748B?style=flat&logo=github&logoColor=white)
 <!-- stack:end -->
 
 ---
