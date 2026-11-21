@@ -4,7 +4,7 @@
 
 **Entrepreneur who ships with AI**
 
-[![Twitter](https://img.shields.io/badge/𝕏-@sepivip-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/sepivip)
+[![X](https://img.shields.io/badge/@sepivip-000000?style=flat&logo=x&logoColor=white)](https://x.com/sepivip)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sepivip-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepivip/)
 [![Website](https://img.shields.io/badge/egod.space-000000?style=flat&logo=safari&logoColor=white)](https://egod.space/)
 [![GitHub](https://img.shields.io/github/followers/sepivip?label=Follow&style=flat&color=000000&logo=github&logoColor=white)](https://github.com/sepivip)
@@ -67,7 +67,10 @@ Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot o
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sepivip&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=555555" width="60%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sepivip/sepivip/main/assets/streak-dark.svg">
+  <img alt="GitHub contribution streak for sepivip" src="https://raw.githubusercontent.com/sepivip/sepivip/main/assets/streak-light.svg" width="60%">
+</picture>
 
 </div>
 
