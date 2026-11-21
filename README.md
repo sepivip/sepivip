@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm PowMowWow 👋
+# Hey, I'm Beka 👋
 
 **Entrepreneur who ships with AI**
 
