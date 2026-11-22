@@ -15,8 +15,10 @@
 
 ### About
 
-Not a developer — an entrepreneur who uses AI to build and ship products.
-Currently turning ideas into reality with **Claude AI**, **Solana**, and a lot of conviction.
+Founder and builder. I design and ship AI teammates that do real work inside real businesses, and build business intelligence with international companies. Alongside that, I ship my own products: agents, payments, SaaS and consumer apps.
+Currently building with **Claude**, **Codex**, and a lot of conviction.
+
+💼 Business inquiries? DM me on [X](https://x.com/sepivip) or [LinkedIn](https://www.linkedin.com/in/sepivip/).
 
 **Current Projects**
 
